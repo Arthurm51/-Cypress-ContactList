@@ -1,0 +1,21 @@
+# Pastas do Cypress
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+
+# Node modules
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Arquivos de configuração
+*.min.js
+*.bundle.js
+
+# Logs
+*.log
+
+# Cache
+.cache/

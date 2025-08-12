@@ -1,0 +1,25 @@
+{
+  "semi": false,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "printWidth": 100,
+  "trailingComma": "none",
+  "bracketSpacing": true,
+  "arrowParens": "avoid",
+  "overrides": [
+    {
+      "files": "cypress/**/*.{js,ts}",
+      "options": {
+        "printWidth": 120,
+        "tabWidth": 2
+      }
+    },
+    {
+      "files": "cypress/fixtures/*.json",
+      "options": {
+        "tabWidth": 2,
+        "printWidth": 80
+      }
+    }
+  ]
+}
