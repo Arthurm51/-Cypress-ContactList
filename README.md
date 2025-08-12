@@ -65,7 +65,7 @@ Se tiver alguma dúvida, não hesite em entrar em contato!
 
 * **Autor**: Arthur M.
 * **GitHub**: [@Arthurm51](https://github.com/Arthurm51)
-* **LinkedIn**: [@Arthurmqa]([https://github.com/Arthurm51](https://www.linkedin.com/in/arthurmachadoqa/))
+* **Linkedin**: [Arthur Machado QA](https://www.linkedin.com/in/arthurmachadoqa/)
 
 
 
