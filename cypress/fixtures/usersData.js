@@ -2,7 +2,7 @@ import { faker } from '@faker-js/faker'
 
 export const userData = {
   register: {
-    firstName: faker.person.firstName(),
+    firstName: faker.person.firstName(), // Fake name
     lastName: faker.person.lastName(),
     email: faker.internet.email(),
     password: 'pswd123'
